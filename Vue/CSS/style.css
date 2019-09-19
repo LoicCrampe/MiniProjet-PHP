@@ -1,0 +1,59 @@
+.btn_blue {
+	color: white;
+	font-size: 25px;
+	background-color: #005dab;
+	border: 1px solid rgb(0, 83, 151);
+	border-radius: 5px;
+	width: 300px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+}
+
+.btn_orange {
+	color: white;
+	font-size: 25px;
+	background-color: #e99414;
+	border: 1px solid rgb(199, 137, 3);
+	border-radius: 5px;
+	width: 300px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+}
+
+.form {
+	font-size: 25px;
+}
+
+.input {
+	width: 300px;
+	margin: 20px;
+	font-size: 25px;
+}
+
+.red {
+	color: white;
+	background-color: crimson;
+	border: 1px solid rgb(153, 16, 44);
+	max-width: 300px;
+}
+
+.green {
+	color: white;
+	background-color: green;
+	border: 1px solid rgb(36, 71, 3);
+	max-width: 300px;
+}
+
+.separation p,
+.separation select,
+.separation input {
+	margin: 0 5px;
+}
+
+.row {
+	margin: 0;
+}
